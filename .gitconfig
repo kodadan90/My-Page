@@ -1,0 +1,6 @@
+[user]
+	email = daniel.cabral9016@gmail.com
+	name = Daniel Cabral
+[core]
+	editor = code --wait
+	autocrlf = true
